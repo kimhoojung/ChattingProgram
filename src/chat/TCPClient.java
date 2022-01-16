@@ -5,7 +5,7 @@ import java.net.InetSocketAddress;
 import java.net.Socket;
 
 public class TCPClient {
-    private static final String SERVER_IP = "192.168.123.121";
+    private static final String SERVER_IP = "192.168.35.229";
     private static final int SERVER_PORT = 5000;
 
     public static void main(String[] args) {
